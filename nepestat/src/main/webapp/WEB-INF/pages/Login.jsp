@@ -18,7 +18,7 @@
             </div>
             <form>
                 <div class="form-group">
-                    <label for="username">Username <span class="required">*</span></label>
+                    <label for="username">Username<span class="required">*</span></label>
                     <input type="text" id="username" name="username" required>
                 </div>
                 
